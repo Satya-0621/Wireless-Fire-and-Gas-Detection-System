@@ -1,1 +1,1 @@
-# Wireless-Fire-and-Gas-Detection-System
+Designed and commissioned a WirelessHART-based Fire & Gas detection system at Reliance Industries, Jamnagar. The project involved configuring gas detectors, repeaters, and gateways for real-time SCADA integration. Key focus was on wireless mesh networking, safety compliance (IEC 61508/61511), and RF site survey-based deployment planning.
